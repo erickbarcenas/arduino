@@ -20,4 +20,4 @@ if(digitalRead(boton) == 1){
       }
  delay(800);     
 }
-# https://youtu.be/jgOCISq-9tw
+// https://youtu.be/jgOCISq-9tw

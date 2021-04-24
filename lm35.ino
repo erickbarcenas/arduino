@@ -22,5 +22,5 @@ void loop()
     delay(200);
 }
 
-# https://youtu.be/rEBT9evGeFY
-# https://www.carrod.mx/products/practica-sensor-de-temperatura-y-ventilador
+// https://youtu.be/rEBT9evGeFY
+// https://www.carrod.mx/products/practica-sensor-de-temperatura-y-ventilador
